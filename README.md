@@ -42,7 +42,7 @@ return c;
 }
 }
 
-int main(https://github.com/ilhamhernanda01/Praktikum-7/blob/master/screenshoot1.png)
+int main()
 {
 int bil, a, b,c;
 
@@ -55,7 +55,7 @@ return 0;
 }
 ```
 **Hasil**
-![hasil]()
+![hasil](https://github.com/ilhamhernanda01/Praktikum-7/blob/master/screenshoot1.png)
 
 
 ##Soal2.cpp
